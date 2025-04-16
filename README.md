@@ -1,6 +1,6 @@
 ☕ Coffee Sales Excel Dashboard Project
-📊 Dashboard Snapshot
-(Insert your screenshot of the Coffee Sales Excel Dashboard here – already uploaded as 88e15ca1-2d62-453d-92cd-b6dd33be69ec.png)
+
+
 ________________________________________
 ✅ Problem Statement
 This Excel dashboard was created to help a coffee company gain actionable insights into sales performance across countries, roast types, customers, and time periods. By tracking key metrics such as total sales, customer trends, and product popularity, the dashboard supports data-driven decisions to improve profitability and customer engagement.
