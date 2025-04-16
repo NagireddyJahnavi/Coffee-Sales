@@ -1,4 +1,6 @@
 ☕ Coffee Sales Excel Dashboard Project
+
+
 <img width="808" alt="Image" src="https://github.com/user-attachments/assets/309d55dc-133e-4c82-8282-f9079cf5b747" />
 
 ________________________________________
@@ -42,11 +44,11 @@ o	Filter by Roast Type, Size, and Loyalty Card
 o	View specific time periods using Order Date Timeline
 ________________________________________
 📈 Key Metrics Tracked
-•	✅ Total Sales
-•	✅ Sales by Country
-•	✅ Top 5 Customers
-•	✅ Monthly Sales by Roast Type
-•	✅ Filterable views by Loyalty Card, Size, and Roast Type
+•	 Total Sales
+•	Sales by Country
+•	Top 5 Customers
+• Monthly Sales by Roast Type
+•	Filterable views by Loyalty Card, Size, and Roast Type
 ________________________________________
 🧠 Insights Gained
 •	Highest sales were recorded in the United States.
