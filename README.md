@@ -1,7 +1,7 @@
 # Coffee Sales Excel Dashboard
 
 
-### Dashboard Link : <img width="808" alt="Image" src="https://github.com/user-attachments/assets/309d55dc-133e-4c82-8282-f9079cf5b747" />
+<img width="808" alt="Image" src="https://github.com/user-attachments/assets/309d55dc-133e-4c82-8282-f9079cf5b747" />
 
 ________________________________________
 ## Problem Statement
