@@ -11,9 +11,8 @@ ________________________________________
 
 ### Steps Followed
 1. Data Preparation
-•	Imported raw coffee sales data into Excel from multiple tables (Orders, Customers, Products).
-
-•	In power query Validated the data for
+- Imported raw coffee sales data into Excel from multiple tables (Orders, Customers, Products)
+In Excel Validated the data for
 - Missing values 
 - Formatting issues (e.g., dates, numeric fields)
 - Removed incomplete rows or entries with null values
@@ -77,5 +76,3 @@ The Coffee Sales Excel Dashboard effectively addresses the business problem by t
 - Detect underperforming areas for targeted improvement
 - Monitor customer behavior to enhance engagement and retention
 By providing a centralized, easy-to-navigate view of sales performance, the dashboard empowers stakeholders to make data-driven decisions that drive growth, improve profitability, and enhance overall business efficiency
-
-
